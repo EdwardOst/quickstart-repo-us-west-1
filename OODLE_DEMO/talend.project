@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_6af6YanuEeeEkOIrnvwsGA" label="oodle_demo" language="java" technicalLabel="OODLE_DEMO" creationDate="2017-10-05T16:59:04.000+0000" author="_6af6YqnuEeeEkOIrnvwsGA" productVersion="Talend Big Data Platform-6.3.1.20161216_1026" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com:443/EdwardOst/quickstart-repo-us-west-1.git&quot;,&quot;login&quot;:&quot;EdwardOst&quot;,&quot;passwd&quot;:&quot;7q4jPGrLlJOwFD++9lFTgNJ270/a2gDP27hLOgJFhOVn16R8FtCG/hCHIURrQWRI&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
+  <TalendProperties:Project xmi:id="_6af6YanuEeeEkOIrnvwsGA" label="oodle_demo" description="" language="java" technicalLabel="OODLE_DEMO" creationDate="2017-10-05T16:59:04.000+0000" author="_6af6YqnuEeeEkOIrnvwsGA" productVersion="Talend Data Fabric-6.3.1.20161216_1026" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/oodle-public-git/odle_empty_repo.git&quot;,&quot;login&quot;:&quot;oodle-public-git&quot;,&quot;passwd&quot;:&quot;Fv9pkGK1RR5Yv0g2GS2utg==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
     <technicalStatus xmi:id="_9u1Y8KnuEeeEkOIrnvwsGA" label="development" code="DEV"/>
     <technicalStatus xmi:id="_9u1Y8anuEeeEkOIrnvwsGA" label="testing" code="TEST"/>
     <technicalStatus xmi:id="_9u1Y8qnuEeeEkOIrnvwsGA" label="production" code="PROD"/>
@@ -682,7 +682,4 @@
   <TalendProperties:User xmi:id="_6af6YqnuEeeEkOIrnvwsGA" login="admin@company.com" firstName="admin" lastName="admin" type="MDM" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_9u64gKnuEeeEkOIrnvwsGA" login="ankush.deshpande@cognizant.com" firstName="ankush" lastName="deshpande" type="MDM" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_W4o0kavUEeerYeD_hsQddw" login="appadurai.subramanian@cognizant.com" firstName="anand" lastName="subramanian" type="MDM" additionnalData="{}"/>
-  <TalendProperties:User xmi:id="_hiN6sc9oEeevfrZC557s4A" login="tadmin@talend.com" firstName="Talend" lastName="Administrator" type="DI"/>
-  <TalendProperties:User xmi:id="_hiN6ss9oEeevfrZC557s4A" login="tadmin@talend.com" firstName="Talend" lastName="Administrator" type="DI"/>
-  <TalendProperties:User xmi:id="_hiN6s89oEeevfrZC557s4A" login="dev@talend.com" firstName="Talend" lastName="Developer" type="DI"/>
 </xmi:XMI>
